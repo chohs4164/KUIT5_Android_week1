@@ -246,7 +246,7 @@ fun SamplePreview(){
     Box(
         modifier = Modifier.fillMaxSize()
     ){
-        //Sample()
-        CircleSample()
+        Sample()
+        //CircleSample()
     }
 }
